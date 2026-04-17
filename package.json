@@ -1,0 +1,15 @@
+{
+  "name": "doldche-server",
+  "version": "1.0.0",
+  "description": "Servidor de notificaciones DOLDCHE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
